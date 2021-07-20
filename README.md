@@ -19,19 +19,10 @@ INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 ```
+### The dataset 
 
-### Inside a Docker Container
+https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
-```java
-pip install --upgrade pip
-python -m pip install -r requirements.txt
-uvicorn main:app --host 0.0.0.0 --port 800
-```
+### The model
 
-## Docs
-
-```java
-http://127.0.0.1:8000/docs#/
-```
-
-![Docs](print.png)
+https://github.com/amitrajitbose/cat-v-dog-classifier-pytorch
