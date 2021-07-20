@@ -27,6 +27,9 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 https://github.com/amitrajitbose/cat-v-dog-classifier-pytorch
 
+### The rest api
+
+localhost:8000/catordog
 
 ![precisionandrecall](https://user-images.githubusercontent.com/18309388/126322373-775d666c-0ebb-448d-81c8-ebdb5de6433e.png)
 
