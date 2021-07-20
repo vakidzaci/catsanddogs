@@ -1,4 +1,4 @@
-# Python API with FastAPI
+# Cats and Dogs with FastAPI
 
 ## How to run
 
